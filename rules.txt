@@ -1,3 +1,4 @@
 *://*.cxybb.com/*
 *://*.cxymm.net/*
 *://*.cxyzjd.com/*
+*://*.csdn.net/*
