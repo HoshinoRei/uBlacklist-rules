@@ -1,0 +1,6 @@
+*://*.cxybb.com/*
+*://*.cxymm.net/*
+*://*.cxyzjd.com/*
+*://*.zgserver.com/*
+*://*.i4k.xyz/*
+*://*.4k8k.xyz/*
