@@ -4,3 +4,4 @@
 *://*.csdn.net/*
 *://www.jianshu.com/*
 *://*.zgserver.com/*
+*://*.i4k.xyz/*
