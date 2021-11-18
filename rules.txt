@@ -7,3 +7,4 @@
 *://*.i4k.xyz/*
 *://*.4k8k.xyz/*
 *://blog.didispace.com/*
+*://www.hi-linux.com/*
