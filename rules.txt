@@ -3,3 +3,4 @@
 *://*.cxyzjd.com/*
 *://*.csdn.net/*
 *://www.jianshu.com/*
+*://*.zgserver.com/*
