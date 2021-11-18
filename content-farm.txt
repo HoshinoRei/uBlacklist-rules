@@ -4,3 +4,4 @@
 *://*.zgserver.com/*
 *://*.i4k.xyz/*
 *://*.4k8k.xyz/*
+*://*.av98.byethost10.com/*

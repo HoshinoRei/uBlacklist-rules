@@ -8,3 +8,4 @@
 *://*.4k8k.xyz/*
 *://blog.didispace.com/*
 *://www.hi-linux.com/*
+*://*.av98.byethost10.com/*
