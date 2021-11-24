@@ -13,3 +13,4 @@
 *://*.xiu2.net/*
 *://flyzyblog.net/*
 *://www.codeprj.com/*
+*://159.138.37.243/*
