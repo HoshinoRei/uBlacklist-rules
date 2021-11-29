@@ -18,3 +18,4 @@
 *://bbs.moe.am/*
 *://*.codetd.com/*
 *://*.tlpoe.com/*
+*://codenostra.com/*
