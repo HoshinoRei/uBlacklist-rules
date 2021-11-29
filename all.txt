@@ -19,3 +19,4 @@
 *://*.codetd.com/*
 *://*.tlpoe.com/*
 *://codenostra.com/*
+*://*.cuoshuo.com/*
