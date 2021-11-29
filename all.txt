@@ -20,3 +20,4 @@
 *://*.tlpoe.com/*
 *://codenostra.com/*
 *://*.cuoshuo.com/*
+*://*.xknote.com/*
