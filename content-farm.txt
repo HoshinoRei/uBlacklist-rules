@@ -13,3 +13,4 @@
 *://*.its201.com/*
 *://bbs.moe.am/*
 *://*.codetd.com/*
+*://*.tlpoe.com/*
