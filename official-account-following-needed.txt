@@ -1,2 +1,3 @@
 *://blog.didispace.com/*
 *://www.hi-linux.com/*
+*://www.javazhiyin.com/*

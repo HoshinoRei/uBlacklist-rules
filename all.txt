@@ -21,3 +21,4 @@
 *://codenostra.com/*
 *://*.cuoshuo.com/*
 *://*.xknote.com/*
+*://www.javazhiyin.com/*
