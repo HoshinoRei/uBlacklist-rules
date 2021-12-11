@@ -18,3 +18,4 @@
 *://*.cuoshuo.com/*
 *://*.xknote.com/*
 *://*.its401.com/*
+*://*.its301.com/*
