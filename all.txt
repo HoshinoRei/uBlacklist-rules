@@ -24,3 +24,4 @@
 *://www.javazhiyin.com/*
 *://*.its401.com/*
 *://*.its301.com/*
+*://*.dovov.com/*
