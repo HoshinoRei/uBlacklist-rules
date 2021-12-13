@@ -22,3 +22,4 @@
 *://*.dovov.com/*
 *://*.it566.top/*
 *://*.pianshen.com/*
+*://*.programmer.group/*
