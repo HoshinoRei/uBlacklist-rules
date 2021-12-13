@@ -26,3 +26,4 @@
 *://*.its301.com/*
 *://*.dovov.com/*
 *://*.it566.top/*
+*://*.pianshen.com/*
