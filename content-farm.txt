@@ -25,3 +25,4 @@
 *://*.programmer.group/*
 *://*.codeleading.com/*
 *://*.codenong.com/*
+*://*.javatt.com/*
