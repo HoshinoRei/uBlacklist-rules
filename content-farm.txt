@@ -26,3 +26,4 @@
 *://*.codeleading.com/*
 *://*.codenong.com/*
 *://*.javatt.com/*
+*://*.jianboge.com/*
