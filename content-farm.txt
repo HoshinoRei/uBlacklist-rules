@@ -27,3 +27,4 @@
 *://*.codenong.com/*
 *://*.javatt.com/*
 *://*.jianboge.com/*
+*://*.icodebang.com/*
