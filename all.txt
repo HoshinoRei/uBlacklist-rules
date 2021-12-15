@@ -33,3 +33,4 @@
 *://*.javatt.com/*
 *://*.jianboge.com/*
 *://*.icodebang.com/*
+*://*.perfcode.com/*
