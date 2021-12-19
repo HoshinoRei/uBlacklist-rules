@@ -34,3 +34,4 @@
 *://*.jianboge.com/*
 *://*.icodebang.com/*
 *://*.perfcode.com/*
+*://*.petminderpro.com/*
