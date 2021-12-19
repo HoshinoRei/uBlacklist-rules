@@ -30,3 +30,4 @@
 *://*.icodebang.com/*
 *://*.perfcode.com/*
 *://*.petminderpro.com/*
+*://*.codepre.com/*
