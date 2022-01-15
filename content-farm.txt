@@ -31,3 +31,4 @@
 *://*.perfcode.com/*
 *://*.petminderpro.com/*
 *://*.codepre.com/*
+*://*.saoniuhuo.com/*
