@@ -32,3 +32,4 @@
 *://*.petminderpro.com/*
 *://*.codepre.com/*
 *://*.saoniuhuo.com/*
+*://*.chalidehb.com/*
