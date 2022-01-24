@@ -38,3 +38,4 @@
 *://*.codepre.com/*
 *://*.saoniuhuo.com/*
 *://*.chalidehb.com/*
+*://*.mlog.club/*
