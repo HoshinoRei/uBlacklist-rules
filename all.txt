@@ -40,3 +40,4 @@
 *://*.chalidehb.com/*
 *://*.mlog.club/*
 *://*.its500.com/*
+*://*.twblogs.net/*
