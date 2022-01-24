@@ -39,3 +39,4 @@
 *://*.saoniuhuo.com/*
 *://*.chalidehb.com/*
 *://*.mlog.club/*
+*://*.its500.com/*
