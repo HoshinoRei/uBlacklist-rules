@@ -12,7 +12,7 @@
 *://www.wmxiazai.com/*
 *://*.xiu2.net/*
 *://flyzyblog.net/*
-*://www.codeprj.com/*
+*://*.codeprj.com/*
 *://159.138.37.243/*
 *://*.its201.com/*
 *://bbs.moe.am/*
