@@ -41,3 +41,4 @@
 *://*.mlog.club/*
 *://*.its500.com/*
 *://*.twblogs.net/*
+*://*.aubertolivier.org/*
