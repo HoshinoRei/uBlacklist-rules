@@ -42,3 +42,4 @@
 *://*.its500.com/*
 *://*.twblogs.net/*
 *://*.aubertolivier.org/*
+*://*.xa8.net/*
