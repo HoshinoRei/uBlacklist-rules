@@ -38,3 +38,4 @@
 *://*.twblogs.net/*
 *://*.aubertolivier.org/*
 *://*.xa8.net/*
+*://*.mediatagtw.com/*
