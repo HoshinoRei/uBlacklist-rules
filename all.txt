@@ -46,3 +46,4 @@
 *://*.mediatagtw.com/*
 *://*.3pppys.com/*
 *://*.aesml.com/*
+*://*.qdmana.com/*
