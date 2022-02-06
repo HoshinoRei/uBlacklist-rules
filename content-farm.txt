@@ -39,3 +39,4 @@
 *://*.aubertolivier.org/*
 *://*.xa8.net/*
 *://*.mediatagtw.com/*
+*://*.3pppys.com/*
