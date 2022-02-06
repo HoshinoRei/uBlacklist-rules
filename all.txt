@@ -47,3 +47,4 @@
 *://*.3pppys.com/*
 *://*.aesml.com/*
 *://*.qdmana.com/*
+*://*.editcode.net/*
