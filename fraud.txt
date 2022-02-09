@@ -9,3 +9,4 @@
 *://*.wbnn.cc/*
 *://*.pmtt.cc/*
 *://*.thcc.cc/*
+*://*.dgcdr.com/*
