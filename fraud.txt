@@ -10,3 +10,4 @@
 *://*.pmtt.cc/*
 *://*.thcc.cc/*
 *://*.dgcdr.com/*
+*://*.nbqiangli.com/*
