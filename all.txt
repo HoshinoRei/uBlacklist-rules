@@ -52,3 +52,4 @@
 *://*.dolc-tech.com/*
 *://*.ttyshi.com/*
 *://*.985ys.com/*
+*://*.qhfx.cc/*

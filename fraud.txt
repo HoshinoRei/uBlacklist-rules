@@ -1,2 +1,3 @@
 *://*.pctantao.com/*
 *://*.dolc-tech.com/*
+*://*.qhfx.cc/*
