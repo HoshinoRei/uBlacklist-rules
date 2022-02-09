@@ -54,3 +54,4 @@
 *://*.985ys.com/*
 *://*.qhfx.cc/*
 *://*.pbup.cc/*
+*://*.china2japan.com/*
