@@ -16,3 +16,4 @@
 *://*.qoooo.cn/*
 *://*.duto.cc/*
 *://*.qualitywang.com/*
+*://*.ntwld.cn/*
