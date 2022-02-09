@@ -47,3 +47,4 @@
 *://*.985ys.com/*
 *://*.china2japan.com/*
 *://*.nuomiphp.com/*
+*://*.tube2.me/*

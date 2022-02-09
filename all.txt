@@ -69,3 +69,4 @@
 *://*.qoooo.cn/*
 *://*.duto.cc/*
 *://*.nuomiphp.com/*
+*://*.tube2.me/*
