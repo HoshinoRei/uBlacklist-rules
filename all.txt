@@ -67,3 +67,4 @@
 *://*.souquan.cc/*
 *://*.leejue.com/*
 *://*.qoooo.cn/*
+*://*.duto.cc/*
