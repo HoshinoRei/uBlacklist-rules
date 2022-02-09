@@ -1,1 +1,2 @@
 *://*.pctantao.com/*
+*://*.dolc-tech.com/*

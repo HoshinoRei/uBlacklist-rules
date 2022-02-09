@@ -49,3 +49,4 @@
 *://*.qdmana.com/*
 *://*.editcode.net/*
 *://*.pctantao.com/*
+*://*.dolc-tech.com/*
