@@ -48,3 +48,4 @@
 *://*.aesml.com/*
 *://*.qdmana.com/*
 *://*.editcode.net/*
+*://*.pctantao.com/*
