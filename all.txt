@@ -56,3 +56,4 @@
 *://*.pbup.cc/*
 *://*.china2japan.com/*
 *://*.efzx.cc/*
+*://*.bhotschles.co/*

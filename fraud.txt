@@ -3,3 +3,4 @@
 *://*.qhfx.cc/*
 *://*.pbup.cc/*
 *://*.efzx.cc/*
+*://*.bhotschles.co/*
