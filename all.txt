@@ -50,3 +50,4 @@
 *://*.editcode.net/*
 *://*.pctantao.com/*
 *://*.dolc-tech.com/*
+*://*.ttyshi.com/*

@@ -43,3 +43,4 @@
 *://*.aesml.com/*
 *://*.qdmana.com/*
 *://*.editcode.net/*
+*://*.ttyshi.com/*
