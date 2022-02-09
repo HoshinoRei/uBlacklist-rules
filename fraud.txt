@@ -13,3 +13,4 @@
 *://*.nbqiangli.com/*
 *://*.souquan.cc/*
 *://*.leejue.com/*
+*://*.qoooo.cn/*
