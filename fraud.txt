@@ -12,3 +12,4 @@
 *://*.dgcdr.com/*
 *://*.nbqiangli.com/*
 *://*.souquan.cc/*
+*://*.leejue.com/*
