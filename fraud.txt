@@ -2,3 +2,4 @@
 *://*.dolc-tech.com/*
 *://*.qhfx.cc/*
 *://*.pbup.cc/*
+*://*.efzx.cc/*
