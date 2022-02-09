@@ -53,3 +53,4 @@
 *://*.ttyshi.com/*
 *://*.985ys.com/*
 *://*.qhfx.cc/*
+*://*.pbup.cc/*

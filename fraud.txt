@@ -1,3 +1,4 @@
 *://*.pctantao.com/*
 *://*.dolc-tech.com/*
 *://*.qhfx.cc/*
+*://*.pbup.cc/*
