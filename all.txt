@@ -64,3 +64,4 @@
 *://*.thcc.cc/*
 *://*.dgcdr.com/*
 *://*.nbqiangli.com/*
+*://*.souquan.cc/*
