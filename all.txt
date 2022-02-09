@@ -57,3 +57,4 @@
 *://*.china2japan.com/*
 *://*.efzx.cc/*
 *://*.bhotschles.co/*
+*://*.7yi7ti.co/*
