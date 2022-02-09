@@ -44,3 +44,4 @@
 *://*.qdmana.com/*
 *://*.editcode.net/*
 *://*.ttyshi.com/*
+*://*.985ys.com/*
