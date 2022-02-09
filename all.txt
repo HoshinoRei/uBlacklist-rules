@@ -68,3 +68,4 @@
 *://*.leejue.com/*
 *://*.qoooo.cn/*
 *://*.duto.cc/*
+*://*.nuomiphp.com/*

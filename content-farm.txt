@@ -46,3 +46,4 @@
 *://*.ttyshi.com/*
 *://*.985ys.com/*
 *://*.china2japan.com/*
+*://*.nuomiphp.com/*
