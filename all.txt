@@ -61,3 +61,4 @@
 *://*.khzx.cc/*
 *://*.wbnn.cc/*
 *://*.pmtt.cc/*
+*://*.thcc.cc/*
