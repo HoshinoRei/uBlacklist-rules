@@ -48,3 +48,4 @@
 *://*.china2japan.com/*
 *://*.nuomiphp.com/*
 *://*.tube2.me/*
+*://*.cxy80.com/*

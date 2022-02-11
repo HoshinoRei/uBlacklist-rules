@@ -72,3 +72,4 @@
 *://*.tube2.me/*
 *://*.qualitywang.com/*
 *://*.ntwld.cn/*
+*://*.cxy80.com/*
