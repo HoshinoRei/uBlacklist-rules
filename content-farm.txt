@@ -51,3 +51,4 @@
 *://*.cxy80.com/*
 *://*.jdyhh.com/*
 *://*.ylqcn.com/*
+*://*.tianyuanjia.com.cn/*
