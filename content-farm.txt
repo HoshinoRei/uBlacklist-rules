@@ -50,3 +50,4 @@
 *://*.tube2.me/*
 *://*.cxy80.com/*
 *://*.jdyhh.com/*
+*://*.ylqcn.com/*

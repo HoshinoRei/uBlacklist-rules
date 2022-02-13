@@ -74,3 +74,4 @@
 *://*.ntwld.cn/*
 *://*.cxy80.com/*
 *://*.jdyhh.com/*
+*://*.ylqcn.com/*
