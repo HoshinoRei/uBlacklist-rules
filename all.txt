@@ -76,3 +76,4 @@
 *://*.jdyhh.com/*
 *://*.ylqcn.com/*
 *://*.tianyuanjia.com.cn/*
+*://*.zkfgw.com/*
