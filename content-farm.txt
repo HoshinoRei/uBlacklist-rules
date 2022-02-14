@@ -54,3 +54,4 @@
 *://*.tianyuanjia.com.cn/*
 *://*.zkfgw.com/*
 *://*.msfxt.com/*
+*://*.rbcty.com/*
