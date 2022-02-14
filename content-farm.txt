@@ -53,3 +53,4 @@
 *://*.ylqcn.com/*
 *://*.tianyuanjia.com.cn/*
 *://*.zkfgw.com/*
+*://*.msfxt.com/*
