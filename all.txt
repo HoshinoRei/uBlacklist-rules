@@ -79,3 +79,4 @@
 *://*.zkfgw.com/*
 *://*.msfxt.com/*
 *://*.rbcty.com/*
+*://*.wws23.com/*
