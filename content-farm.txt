@@ -99,3 +99,4 @@
 *://*.enmsb.com/*
 *://*.gjffh.com/*
 *://*.yaoor.com/*
+*://*.sjifm.com/*
