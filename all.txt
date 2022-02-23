@@ -116,3 +116,4 @@
 *://*.nytmag.com/*
 *://*.hjpnc.com/*
 *://*.wphll.com/*
+*://*.adawod.com/*
