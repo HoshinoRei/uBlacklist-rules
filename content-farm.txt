@@ -85,3 +85,4 @@
 *://*.sodeog.com/*
 *://*.brbtyt.com/*
 *://*.qsxi.com/*
+*://*.hidna.net/*
