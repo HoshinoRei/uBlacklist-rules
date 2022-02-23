@@ -89,3 +89,4 @@
 *://*.geekschool.org/*
 *://*.qedev.com/*
 *://*.icode.best/*
+*://*.66wenda.com/*
