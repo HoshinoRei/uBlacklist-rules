@@ -71,3 +71,4 @@
 *://*.bthss.com/*
 *://*.26wp.com/*
 *://*.bgyjr.com/*
+*://*.gzchaxun.com/*
