@@ -115,3 +115,4 @@
 *://*.plqdf.com/*
 *://*.nytmag.com/*
 *://*.hjpnc.com/*
+*://*.wphll.com/*
