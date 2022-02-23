@@ -93,3 +93,4 @@
 *://*.fhsas.com/*
 *://*.oomfz.com/*
 *://*.bthss.com/*
+*://*.26wp.com/*
