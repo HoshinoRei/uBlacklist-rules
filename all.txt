@@ -108,3 +108,4 @@
 *://*.eleoem.com/*
 *://*.sodeog.com/*
 *://*.brbtyt.com/*
+*://*.qsxi.com/*
