@@ -87,3 +87,4 @@
 *://*.qsxi.com/*
 *://*.hidna.net/*
 *://*.jzita.com/*
+*://*.urpimp.com/*
