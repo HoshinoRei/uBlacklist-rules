@@ -58,3 +58,4 @@
 *://*.wws23.com/*
 *://*.rjjhb.com/*
 *://*.1024sou.com/*
+*://*.deafb.com/*
