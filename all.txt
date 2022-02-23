@@ -114,3 +114,4 @@
 *://*.urpimp.com/*
 *://*.plqdf.com/*
 *://*.nytmag.com/*
+*://*.hjpnc.com/*
