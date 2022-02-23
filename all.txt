@@ -101,3 +101,4 @@
 *://*.ezgckg.com/*
 *://*.fpppw.com/*
 *://*.xhubajie.com/*
+*://*.zkokh.com/*
