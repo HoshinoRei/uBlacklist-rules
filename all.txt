@@ -119,3 +119,4 @@
 *://*.adawod.com/*
 *://*.rsk26.com/*
 *://*.tmtkz.com/*
+*://*.aznpic.com/*
