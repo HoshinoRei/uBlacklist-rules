@@ -106,3 +106,4 @@
 *://*.fc-kf.com/*
 *://*.gclcg.com/*
 *://*.eleoem.com/*
+*://*.sodeog.com/*
