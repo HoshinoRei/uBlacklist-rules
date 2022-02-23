@@ -86,3 +86,4 @@
 *://*.brbtyt.com/*
 *://*.qsxi.com/*
 *://*.hidna.net/*
+*://*.jzita.com/*
