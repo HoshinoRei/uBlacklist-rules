@@ -76,3 +76,4 @@
 *://*.yuzzl.com/*
 *://*.ezgckg.com/*
 *://*.fpppw.com/*
+*://*.xhubajie.com/*
