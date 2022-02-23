@@ -118,3 +118,4 @@
 *://*.wphll.com/*
 *://*.adawod.com/*
 *://*.rsk26.com/*
+*://*.tmtkz.com/*
