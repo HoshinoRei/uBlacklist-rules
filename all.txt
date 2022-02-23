@@ -113,3 +113,4 @@
 *://*.jzita.com/*
 *://*.urpimp.com/*
 *://*.plqdf.com/*
+*://*.nytmag.com/*
