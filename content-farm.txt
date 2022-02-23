@@ -83,3 +83,4 @@
 *://*.gclcg.com/*
 *://*.eleoem.com/*
 *://*.sodeog.com/*
+*://*.brbtyt.com/*
