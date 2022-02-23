@@ -72,3 +72,4 @@
 *://*.26wp.com/*
 *://*.bgyjr.com/*
 *://*.gzchaxun.com/*
+*://*.ycxba.com/*
