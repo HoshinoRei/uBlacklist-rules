@@ -98,3 +98,4 @@
 *://*.aznpic.com/*
 *://*.enmsb.com/*
 *://*.gjffh.com/*
+*://*.yaoor.com/*
