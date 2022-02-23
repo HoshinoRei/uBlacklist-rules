@@ -75,3 +75,4 @@
 *://*.ycxba.com/*
 *://*.yuzzl.com/*
 *://*.ezgckg.com/*
+*://*.fpppw.com/*
