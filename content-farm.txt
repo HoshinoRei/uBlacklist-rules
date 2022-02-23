@@ -101,3 +101,4 @@
 *://*.yaoor.com/*
 *://*.sjifm.com/*
 *://*.uppple.com/*
+*://*.iitter.com/*
