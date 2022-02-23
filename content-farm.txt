@@ -62,3 +62,4 @@
 *://*.csa78.com/*
 *://*.mm4y2.com/*
 *://*.tqwba.com/*
+*://*.geekschool.org/*
