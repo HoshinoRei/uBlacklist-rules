@@ -102,3 +102,4 @@
 *://*.fpppw.com/*
 *://*.xhubajie.com/*
 *://*.zkokh.com/*
+*://*.sefyc.com/*
