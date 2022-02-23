@@ -98,3 +98,4 @@
 *://*.gzchaxun.com/*
 *://*.ycxba.com/*
 *://*.yuzzl.com/*
+*://*.ezgckg.com/*
