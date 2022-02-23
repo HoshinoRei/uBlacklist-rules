@@ -80,3 +80,4 @@
 *://*.zkokh.com/*
 *://*.sefyc.com/*
 *://*.fc-kf.com/*
+*://*.gclcg.com/*
