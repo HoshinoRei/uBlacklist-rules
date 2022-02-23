@@ -92,3 +92,4 @@
 *://*.66wenda.com/*
 *://*.fhsas.com/*
 *://*.oomfz.com/*
+*://*.bthss.com/*
