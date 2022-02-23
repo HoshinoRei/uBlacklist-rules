@@ -96,3 +96,4 @@
 *://*.rsk26.com/*
 *://*.tmtkz.com/*
 *://*.aznpic.com/*
+*://*.enmsb.com/*
