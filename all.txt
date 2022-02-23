@@ -94,3 +94,4 @@
 *://*.oomfz.com/*
 *://*.bthss.com/*
 *://*.26wp.com/*
+*://*.bgyjr.com/*
