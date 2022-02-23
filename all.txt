@@ -85,3 +85,4 @@
 *://*.deafb.com/*
 *://*.csa78.com/*
 *://*.mm4y2.com/*
+*://*.tqwba.com/*
