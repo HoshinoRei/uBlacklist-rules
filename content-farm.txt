@@ -100,3 +100,4 @@
 *://*.gjffh.com/*
 *://*.yaoor.com/*
 *://*.sjifm.com/*
+*://*.uppple.com/*
