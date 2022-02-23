@@ -59,3 +59,4 @@
 *://*.rjjhb.com/*
 *://*.1024sou.com/*
 *://*.deafb.com/*
+*://*.csa78.com/*
