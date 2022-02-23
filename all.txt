@@ -87,3 +87,4 @@
 *://*.mm4y2.com/*
 *://*.tqwba.com/*
 *://*.geekschool.org/*
+*://*.qedev.com/*
