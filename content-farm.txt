@@ -64,3 +64,4 @@
 *://*.tqwba.com/*
 *://*.geekschool.org/*
 *://*.qedev.com/*
+*://*.icode.best/*
