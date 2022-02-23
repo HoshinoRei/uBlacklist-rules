@@ -105,3 +105,4 @@
 *://*.sefyc.com/*
 *://*.fc-kf.com/*
 *://*.gclcg.com/*
+*://*.eleoem.com/*
