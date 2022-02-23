@@ -73,3 +73,4 @@
 *://*.bgyjr.com/*
 *://*.gzchaxun.com/*
 *://*.ycxba.com/*
+*://*.yuzzl.com/*
