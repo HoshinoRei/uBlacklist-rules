@@ -103,3 +103,4 @@
 *://*.xhubajie.com/*
 *://*.zkokh.com/*
 *://*.sefyc.com/*
+*://*.fc-kf.com/*
