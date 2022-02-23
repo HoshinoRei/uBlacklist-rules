@@ -88,3 +88,4 @@
 *://*.hidna.net/*
 *://*.jzita.com/*
 *://*.urpimp.com/*
+*://*.plqdf.com/*
