@@ -121,3 +121,4 @@
 *://*.tmtkz.com/*
 *://*.aznpic.com/*
 *://*.enmsb.com/*
+*://*.gjffh.com/*
