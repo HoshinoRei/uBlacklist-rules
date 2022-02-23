@@ -126,3 +126,4 @@
 *://*.sjifm.com/*
 *://*.uppple.com/*
 *://*.iitter.com/*
+*://*.freesion.com/*
