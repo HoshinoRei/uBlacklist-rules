@@ -140,3 +140,4 @@
 *://*.ldlgzs.com/*
 *://*.erigd.com/*
 *://*.bcqaw.com/*
+*://*.zditect.com/*
