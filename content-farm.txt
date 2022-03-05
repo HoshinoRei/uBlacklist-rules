@@ -112,3 +112,4 @@
 *://*.ydbaike.club/*
 *://*.dflkj.top/*
 *://*.cjkfd.top/*
+*://*.ldlgzs.com/*
