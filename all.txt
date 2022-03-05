@@ -135,3 +135,4 @@
 *://*.luocige.com/*
 *://*.guewr.com/*
 *://*.ydbaike.club/*
+*://*.dflkj.top/*
