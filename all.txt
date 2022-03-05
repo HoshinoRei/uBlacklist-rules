@@ -133,3 +133,4 @@
 *://*.handyradar.org/*
 *://*.zizhuzhishi.com/*
 *://*.luocige.com/*
+*://*.guewr.com/*
