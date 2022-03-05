@@ -128,3 +128,4 @@
 *://*.iitter.com/*
 *://*.freesion.com/*
 *://*.helloworld6.com/*
+*://*.techgrow.cn/*
