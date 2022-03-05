@@ -114,3 +114,4 @@
 *://*.cjkfd.top/*
 *://*.ldlgzs.com/*
 *://*.erigd.com/*
+*://*.bcqaw.com/*
