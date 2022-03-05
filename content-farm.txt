@@ -109,3 +109,4 @@
 *://*.zizhuzhishi.com/*
 *://*.luocige.com/*
 *://*.guewr.com/*
+*://*.ydbaike.club/*
