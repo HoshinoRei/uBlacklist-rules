@@ -136,3 +136,4 @@
 *://*.guewr.com/*
 *://*.ydbaike.club/*
 *://*.dflkj.top/*
+*://*.cjkfd.top/*
