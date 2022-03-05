@@ -2,3 +2,4 @@
 *://www.hi-linux.com/*
 *://www.javazhiyin.com/*
 *://*.techgrow.cn/*
+*://*.jb51.cc/*

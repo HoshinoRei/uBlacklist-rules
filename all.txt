@@ -129,3 +129,4 @@
 *://*.freesion.com/*
 *://*.helloworld6.com/*
 *://*.techgrow.cn/*
+*://*.jb51.cc/*
