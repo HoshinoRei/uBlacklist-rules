@@ -106,3 +106,4 @@
 *://*.helloworld6.com/*
 *://*.jb51.cc/*
 *://*.handyradar.org/*
+*://*.zizhuzhishi.com/*
